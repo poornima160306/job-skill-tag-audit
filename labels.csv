@@ -1,0 +1,51 @@
+jd_id,title,model_tags,required_skills,optional_skills,right_tags,wrong_tags,missing_required_skills,tag_count,right_count,wrong_count,missed_required_count
+JD001,Data Analyst Intern,Statistics; Microsoft Excel; Teamwork; Python,Microsoft Excel; Python; Statistics,Data Cleaning,Statistics; Microsoft Excel; Python,Teamwork,,4,3,1,0
+JD002,Frontend Developer Intern,TypeScript; JavaScript; CSS,CSS; JavaScript; React; TypeScript,HTML,TypeScript; JavaScript; CSS,,React,3,3,0,1
+JD003,Backend Developer Intern,REST APIs; PostgreSQL; Node; Leadership; Docker,Docker; Git; Node.js; PostgreSQL; REST APIs,Python,REST APIs; PostgreSQL; Node; Docker,Leadership,Git,5,4,1,1
+JD004,Content Writer Intern,SEO; WordPress; Research; Content Writing; SAP,Content Writing; Research; WordPress,SEO,SEO; WordPress; Research; Content Writing,SAP,,5,4,1,0
+JD005,Marketing Intern,Email Marketing; Google Analytics; Canva; Copywriting; Machine Learning; Social Media Marketing,Canva; Copywriting; Email Marketing; Google Analytics,Social Media Marketing,Email Marketing; Google Analytics; Canva; Copywriting; Social Media Marketing,Machine Learning,,6,5,1,0
+JD006,UI/UX Design Intern,Design Systems; User Research; Wireframing; Figma,Design Systems; Figma; User Research; Wireframing,Prototyping,Design Systems; User Research; Wireframing; Figma,,,4,4,0,0
+JD007,Finance Intern,Financial Modeling; Accounting; Microsoft Excel; GST; Kubernetes,Accounting; Financial Modelling; GST; Microsoft Excel,Tally,Financial Modeling; Accounting; Microsoft Excel; GST,Kubernetes,,5,4,1,0
+JD008,Machine Learning Intern,Python; Statistics; SQL; Time Management; PyTorch,Machine Learning; PyTorch; Python; SQL; Statistics,Pandas,Python; Statistics; SQL; PyTorch,Time Management,Machine Learning,5,4,1,1
+JD009,Customer Support Intern,Zendesk; Customer Support; Written English,Customer Support; Microsoft Excel; Written English,Zendesk,Zendesk; Customer Support; Written English,,Microsoft Excel,3,3,0,1
+JD010,HR Intern,Recruiting,HR Operations; Interviewing; Recruiting,Microsoft Excel,Recruiting,,HR Operations; Interviewing,1,1,0,2
+JD011,Data Analyst Intern,SQL; Power BI; Data Cleaning; Leadership; Python; Tableau; Microsoft Excel,Data Cleaning; Microsoft Excel; Power BI; SQL; Tableau,Python,SQL; Power BI; Data Cleaning; Python; Tableau; Microsoft Excel,Leadership,,7,6,1,0
+JD012,Frontend Developer Intern,TypeScript; Kubernetes; CSS; Git,CSS; Git; TypeScript,HTML,TypeScript; CSS; Git,Kubernetes,,4,3,1,0
+JD013,Backend Developer Intern,Problem Solving; Python; Node,Node.js; PostgreSQL; Python,Docker,Python; Node,Problem Solving,PostgreSQL,3,2,1,1
+JD014,Content Writer Intern,Research; SEO,Content Writing; Research; SEO,WordPress,Research; SEO,,Content Writing,2,2,0,1
+JD015,Marketing Intern,Email Marketing; Copywriting; Leadership; Google Analytics,Canva; Copywriting; Email Marketing; Google Analytics,Social Media Marketing,Email Marketing; Copywriting; Google Analytics,Leadership,Canva,4,3,1,1
+JD016,UI/UX Design Intern,Prototyping; Design Systems,Design Systems; Figma; Prototyping,Wireframing,Prototyping; Design Systems,,Figma,2,2,0,1
+JD017,Finance Intern,Tally; Accounting; Financial Modeling,Accounting; Financial Modelling; Tally,GST,Tally; Accounting; Financial Modeling,,,3,3,0,0
+JD018,Machine Learning Intern,Pandas; SQL; Machine Learning; PyTorch; Blockchain,Machine Learning; Pandas; PyTorch; SQL,Statistics,Pandas; SQL; Machine Learning; PyTorch,Blockchain,,5,4,1,0
+JD019,Customer Support Intern,Microsoft Excel; Teamwork; Customer Support,Customer Support; Microsoft Excel; Written English,Zendesk,Microsoft Excel; Customer Support,Teamwork,Written English,3,2,1,1
+JD020,HR Intern,Recruiting; Interviewing; Excel,Interviewing; Microsoft Excel; Recruiting,HR Operations,Recruiting; Interviewing; Excel,,,3,3,0,0
+JD021,Data Analyst Intern,Tableau; Data Cleaning; SQL; Statistics,Data Cleaning; SQL; Statistics; Tableau,Python,Tableau; Data Cleaning; SQL; Statistics,,,4,4,0,0
+JD022,Frontend Developer Intern,Git; React; CSS; TypeScript; JS,CSS; HTML; JavaScript; React; TypeScript,Git,Git; React; CSS; TypeScript; JS,,HTML,5,5,0,1
+JD023,Backend Developer Intern,Node; Docker; API; Python; PostgreSQL; Communication,Docker; Node.js; Python; REST APIs,PostgreSQL,Node; Docker; Python; PostgreSQL,API; Communication,REST APIs,6,4,2,1
+JD024,Content Writer Intern,WordPress; Copy Editing; SEO,Copy Editing; SEO; WordPress,Research,WordPress; Copy Editing; SEO,,,3,3,0,0
+JD025,Marketing Intern,Email Marketing; Leadership; Google Analytics; Kubernetes; Canva,Canva; Email Marketing; Google Analytics,Social Media Marketing,Email Marketing; Google Analytics; Canva,Leadership; Kubernetes,,5,3,2,0
+JD026,UI/UX Design Intern,Leadership; Design Systems; Wireframing; Figma,Design Systems; Figma; Wireframing,Prototyping,Design Systems; Wireframing; Figma,Leadership,,4,3,1,0
+JD027,Finance Intern,Problem Solving; Tally; Financial Modeling,Accounting; Financial Modelling; GST; Tally,Microsoft Excel,Tally; Financial Modeling,Problem Solving,Accounting; GST,3,2,1,2
+JD028,Machine Learning Intern,Pandas; Python; PyTorch,Machine Learning; Pandas; PyTorch,Python,Pandas; Python; PyTorch,,Machine Learning,3,3,0,1
+JD029,Customer Support Intern,Microsoft Excel; Written English; Customer Support,Customer Support; Microsoft Excel; Written English; Zendesk,,Microsoft Excel; Written English; Customer Support,,Zendesk,3,3,0,1
+JD030,HR Intern,Excel; Recruiting; HR Operations; Blockchain; Leadership,HR Operations; Microsoft Excel; Recruiting,Interviewing,Excel; Recruiting; HR Operations,Blockchain; Leadership,,5,3,2,0
+JD031,Data Analyst Intern,Data Cleaning; Python; Communication; Excel; Statistics,Data Cleaning; Microsoft Excel; Python; Statistics,SQL,Data Cleaning; Python; Excel; Statistics,Communication,,5,4,1,0
+JD032,Frontend Developer Intern,HTML; Git; React; JavaScript,Git; HTML; JavaScript; React,CSS,HTML; Git; React; JavaScript,,,4,4,0,0
+JD033,Backend Developer Intern,Node.js; Postgres; Python; Git,Git; Node.js; PostgreSQL; Python,REST APIs,Node.js; Postgres; Python; Git,,,4,4,0,0
+JD034,Content Writer Intern,WordPress; Content Writing; Research; SEO,Content Writing; Research; WordPress,SEO,WordPress; Content Writing; Research; SEO,,,4,4,0,0
+JD035,Marketing Intern,Google Analytics; Canva; Blockchain; Email Marketing; Social Media Marketing; Copywriting,Canva; Copywriting; Email Marketing; Google Analytics,Social Media Marketing,Google Analytics; Canva; Email Marketing; Social Media Marketing; Copywriting,Blockchain,,6,5,1,0
+JD036,UI/UX Design Intern,Wireframing; Figma; User Research,Figma; User Research; Wireframing,Design Systems,Wireframing; Figma; User Research,,,3,3,0,0
+JD037,Finance Intern,Financial Modelling; Accounting; Tally,Accounting; Financial Modelling; Tally,GST,Financial Modelling; Accounting; Tally,,,3,3,0,0
+JD038,Machine Learning Intern,SQL; Python; Machine Learning; Pandas; PyTorch; Statistics,Machine Learning; Pandas; PyTorch; Python; SQL; Statistics,,SQL; Python; Machine Learning; Pandas; PyTorch; Statistics,,,6,6,0,0
+JD039,Customer Support Intern,Zendesk; Written English; Microsoft Excel; Teamwork; Customer Support,Customer Support; Microsoft Excel; Written English,Zendesk,Zendesk; Written English; Microsoft Excel; Customer Support,Teamwork,,5,4,1,0
+JD040,HR Intern,Recruiting; Microsoft Excel; Interviewing; Leadership; SAP; HR Operations,Interviewing; Microsoft Excel; Recruiting,HR Operations,Recruiting; Microsoft Excel; Interviewing; HR Operations,Leadership; SAP,,6,4,2,0
+JD041,Data Analyst Intern,Machine Learning; Data Cleaning; Microsoft Excel,Data Cleaning; Microsoft Excel; Power BI,SQL,Data Cleaning; Microsoft Excel,Machine Learning,Power BI,3,2,1,1
+JD042,Frontend Developer Intern,JavaScript; Git; React,Git; JavaScript; React,CSS,JavaScript; Git; React,,,3,3,0,0
+JD043,Backend Developer Intern,Node; Git,Node.js; PostgreSQL; REST APIs,Git,Node; Git,,PostgreSQL; REST APIs,2,2,0,2
+JD044,Content Writer Intern,SAP; Research; Content Writing; SEO,Content Writing; Copy Editing; SEO,Research,Research; Content Writing; SEO,SAP,Copy Editing,4,3,1,1
+JD045,Marketing Intern,Email Marketing; Social Media,Copywriting; Email Marketing; Social Media Marketing,Canva,Email Marketing,Social Media,Copywriting; Social Media Marketing,2,1,1,2
+JD046,UI/UX Design Intern,Wireframing; Prototyping; User Research; Problem Solving,Design Systems; Figma; Prototyping; User Research,Wireframing,Wireframing; Prototyping; User Research,Problem Solving,Design Systems; Figma,4,3,1,2
+JD047,Finance Intern,Accounting; Excel; SAP; Tally; GST; Financial Modeling,Financial Modelling; GST; Microsoft Excel; Tally,Accounting,Accounting; Excel; Tally; GST; Financial Modeling,SAP,,6,5,1,0
+JD048,Machine Learning Intern,PyTorch; SQL; Statistics; Python; Pandas; ML,Machine Learning; Pandas; Python; SQL; Statistics,PyTorch,PyTorch; SQL; Statistics; Python; Pandas; ML,,,6,6,0,0
+JD049,Customer Support Intern,Written English; Zendesk,Customer Support; Microsoft Excel; Written English,Zendesk,Written English; Zendesk,,Customer Support; Microsoft Excel,2,2,0,2
+JD050,HR Intern,Interviewing; Excel; HR Operations; Recruiting,HR Operations; Microsoft Excel; Recruiting,Interviewing,Interviewing; Excel; HR Operations; Recruiting,,,4,4,0,0
